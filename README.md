@@ -15,7 +15,6 @@ Example responsive webpage project with use of CSS grid, flexbox, transitions, a
 - fonts property
 - forms
 - background-images
--
 
 ## Project follows mobile-first approach.
 The mobile-first approach is exactly as it sounds: designing for the smallest screen and make it looks good for desktops using media queries.
